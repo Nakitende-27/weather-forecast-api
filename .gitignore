@@ -4,3 +4,7 @@ __pycache__/
 .venv/
 venv/
 .env
+.hypothesis/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
